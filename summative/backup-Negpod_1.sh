@@ -7,7 +7,7 @@ remote_password="899c79fc532cd0591af1"
 remote_location="/home/sftp-student/03033/summative"
 
 # Directory to be backed up
-directory_to_backup="negpod_id-q1"
+directory_to_backup="negpod_1-q1"
 
 # Archive the directory to a tar.gz file
 tar_filename="${directory_to_backup}.tar.gz"
