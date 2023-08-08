@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Remote server details
-remote_host="a0dfc11ba139.a982e858.alu-cod.online"
-remote_user="a0dfc11ba139"
-remote_password="899c79fc532cd0591af1"
+remote_host="5627d1252da8.500845f2.alu-cod.online"
+remote_user="5627d1252da8"
+remote_password="31dbe00036c963f7ca58"
 remote_location="/home/sftp-student/03033/summative"
 
 # Directory to be backed up
